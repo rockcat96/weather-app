@@ -2,7 +2,7 @@
 
 const apiKey = "f3019d8ee1b6dbba3770b735143f7893"
 
-const cityBaseURL = "http://api.openweathermap.org/geo/1.0/direct?q="
+const cityBaseURL = "https://api.openweathermap.org/geo/1.0/direct?q="
 
 const weatherBaseURL = "https://api.openweathermap.org/data/3.0/onecall?"
 
